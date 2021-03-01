@@ -1,0 +1,6 @@
+c:\users\matthewyeend\documents\visual studio 2015\Projects\CalculatePowerOfAnyGivenNumber\CalculatePowerOfAnyGivenNumber\bin\Debug\CalculatePowerOfAnyGivenNumber.exe.config
+c:\users\matthewyeend\documents\visual studio 2015\Projects\CalculatePowerOfAnyGivenNumber\CalculatePowerOfAnyGivenNumber\bin\Debug\CalculatePowerOfAnyGivenNumber.exe
+c:\users\matthewyeend\documents\visual studio 2015\Projects\CalculatePowerOfAnyGivenNumber\CalculatePowerOfAnyGivenNumber\bin\Debug\CalculatePowerOfAnyGivenNumber.pdb
+c:\users\matthewyeend\documents\visual studio 2015\Projects\CalculatePowerOfAnyGivenNumber\CalculatePowerOfAnyGivenNumber\obj\Debug\CalculatePowerOfAnyGivenNumber.csprojResolveAssemblyReference.cache
+c:\users\matthewyeend\documents\visual studio 2015\Projects\CalculatePowerOfAnyGivenNumber\CalculatePowerOfAnyGivenNumber\obj\Debug\CalculatePowerOfAnyGivenNumber.exe
+c:\users\matthewyeend\documents\visual studio 2015\Projects\CalculatePowerOfAnyGivenNumber\CalculatePowerOfAnyGivenNumber\obj\Debug\CalculatePowerOfAnyGivenNumber.pdb
